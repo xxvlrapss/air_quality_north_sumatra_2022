@@ -63,8 +63,3 @@ The objective is to evaluate how well each region achieved its air quality targe
 
 - **Interactive Dashboard (Tableau)**:  
   👉 [Air Quality North Sumatra 2022 Dashboard](https://public.tableau.com/app/profile/dimas.prayoga7117/viz/Visualisasi_indeks_kualitas_udara_sumut_2022/Dashboard1)  
-
-*(Optional: Add static previews in repo under `images/`)*  
-```markdown
-![Air Quality Gap by Region](images/air_quality_gap.png)
-![Top vs Bottom Regions](images/regions_comparison.png)
